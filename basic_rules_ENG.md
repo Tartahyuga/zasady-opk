@@ -2,7 +2,7 @@
 
 English version 2.0 (July 2023)
 
-This file doesn't contain the Advanced Rules, you can find them in a separate file. Their purpose is to clarify dubious cases in Basic Rules, explain where the rules come from and describe rules for Dungeon Masters. If you want to just play in a game, the two first chapters ('character generation' and 'how the game is played'). If you have questions, the Dungeon Master (DM) and experienced players can help you. Chapters 3 and 4 describe how to develop your character and what can they do between games. At the end of this file are tables with useful information.
+This file doesn't contain the Advanced Rules (you can find them in a separate file), whose purpose is to clarify edge cases in Basic Rules, explain where the rules come from and describe rules for Dungeon Masters. If you want to just play in a game, you only need the first two chapters ('character generation' and 'how the game is played'). If you have questions, the Dungeon Master (DM) and experienced players can help you. Chapters 3 and 4 describe how to develop your character and what can they do between games. At the end of this file are tables with useful information.
 
 For any rules clarifications, we invite you to our Discord ([https://discord.com/invite/BWYKVxk](https://discord.com/invite/BWYKVxk), in particular the channel #rules-opk.
 
@@ -128,7 +128,7 @@ After playing the first Tier 2 adventure, the character's official name cannot b
 
 In particular, you can choose a background from books mentioned in chapter 1.1., as well as campaigns: Baldur's Gate: Descent into Avernus, Curse of Strahd, Tomb of Annihilation, The Wild Beyond the Witchlight, Ghosts of Saltmarsh. You can choose the Athlete background from Mythic Odyssey of Theros, or create your own using rules in PHB (Customize Your Background).
 
-### 1.4. Starting equipment<a name="ekwipunek-startowy"></a>
+### 1.4. Ekwipunek Startowy<a name="ekwipunek-startowy"></a>
 
 Starting equipment and gold are determined by your character's class and background. You cannot replace the default starting equipment with rolling for gold. You can, however, sell starting equipment at half its price from the PHB, and buy new equipment normally.
 
@@ -202,7 +202,7 @@ No later than when the rewards are handed out, a player can decide to reduce the
 
 The results of an adventure should be noted down in a character's logsheet by their owner (see [chapter 4.1](#logsheet))
 
-## 3. Rewards and other consequences of an adventure<a name="nagrody"></a>
+## 3. Nagrody i inne konsekwencje przygód<a name="nagrody"></a>
 
 Characters receive rewards from the game in the form described by the DM at the end of an adventure. These are usually: ACP (Advancement Checkpoints), Downtime, money, magic and non-magic items and Story Awards. In this chapter we will go through each of those rewards and their use, as well as discuss the negative effects of adventures that a character may experience.
 
